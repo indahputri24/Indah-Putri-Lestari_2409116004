@@ -38,10 +38,11 @@ Indah Putri Lestari | 2409116004 | Sistem Informasi A[Uploading Indah Putri Lest
 
    ![2024-09-30 (21)](https://github.com/user-attachments/assets/638532a2-1c36-44fa-b451-9b8fc500c8ae)
 
-7. Perulangan untuk menghitung total harga lagi atau keluar dari program, jika YA maka otomatis akan melakukan perulangan
+6. Perulangan untuk menghitung total harga lagi atau keluar dari program, jika YA maka otomatis akan melakukan perulangan
 
    ![2024-09-30 (22)](https://github.com/user-attachments/assets/28d7d94d-270b-4869-b107-9760fa086b29)
 
-9. Jika tidak maka program selesai
+7. Jika tidak maka program selesai
+
    ![2024-09-30 (23)](https://github.com/user-attachments/assets/aa4d962f-5c8a-46ee-af13-c0cc9fb64d23)
 
