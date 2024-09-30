@@ -8,8 +8,7 @@ Indah Putri Lestari | 2409116004 | Sistem Informasi A[Uploading Indah Putri Lest
 
 # Contoh Output Awal Sampai Akhir
 
-![2024-09-30 (18)](https://github.com/user-attachments/assets/d96e81e4-f036-4d8a-83f0-79dfba4eddad)
-
+![2024-09-30 (30)](https://github.com/user-attachments/assets/431abc3a-356b-442d-9336-44f480d47dd5)
 
 # Penjelasan Output
 1. Pengguna melakukan Login dengan memasukkan Nama, NIM (Interger), Fakultas, PIN (Interger dan harus 4 angka)
