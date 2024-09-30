@@ -1,10 +1,16 @@
 # MINI PROJECT 1
-Indah Putri Lestari | 2409116004 | Sistem Informasi A[Uploading Indah Putri Lestari.drawio…]()
+Indah Putri Lestari | 2409116004 | Sistem Informasi A
 
 
 # Flowchart
 
-![2024-09-30 (28)](https://github.com/user-attachments/assets/7554a98d-cae5-4d7d-b134-05d1fc5ff2d2)
+![2024-09-30 (42)](https://github.com/user-attachments/assets/a9b5ea23-06f2-4d0f-85f6-e19b8c6ec762)
+
+Yang diatas versi full, yang dibawah versi zoom nya
+
+![2024-09-30 (40)](https://github.com/user-attachments/assets/95d36399-bff8-4a80-b631-1b4c9372768e)
+
+![2024-09-30 (41)](https://github.com/user-attachments/assets/ad2254e5-812f-4a49-84e7-95416b87dadf)
 
 # Contoh Output Awal Sampai Akhir
 
